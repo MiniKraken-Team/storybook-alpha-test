@@ -18,6 +18,7 @@
     "@storybook/addon-links": "^7.0.0-alpha.56",
     "@storybook/builder-vite": "^7.0.0-alpha.56",
     "@storybook/svelte": "^7.0.0-alpha.56",
+    "@storybook/svelte-vite": "^7.0.0-alpha.56",
     "@storybook/testing-library": "^0.0.14-next.0",
     "@sveltejs/vite-plugin-svelte": "^1.1.0",
     "babel-loader": "^8.3.0",
